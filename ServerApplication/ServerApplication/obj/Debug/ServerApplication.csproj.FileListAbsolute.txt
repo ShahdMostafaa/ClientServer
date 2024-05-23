@@ -1,0 +1,10 @@
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.AssemblyReference.cache
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.Form1.resources
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.Properties.Resources.resources
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.GenerateResource.cache
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\ITC\source\repos\ServerApplication\ServerApplication\obj\Debug\ServerApplication.pdb
